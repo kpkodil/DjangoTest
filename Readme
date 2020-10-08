@@ -1,0 +1,11 @@
+Описание проекта:
+
+Python 3.8.5
+Framework: Django
+
+Запустить: python manage.py runserver
+API endpoint: /api/meta
+
+Приложение get_files
+В файле listdir.py находится основная функция поиска файлов в заданной директории
+в файле config.py указывается рабочая директория
